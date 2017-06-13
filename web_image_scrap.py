@@ -1,5 +1,6 @@
 # Download images from a site
 # In this case from someone S3 bucket
+# note: use python 3
 import urllib.request
 
 count = 0
